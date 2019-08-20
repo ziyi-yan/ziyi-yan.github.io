@@ -47,7 +47,7 @@
               <div class="u-padding">
                 <h2 class="Heading-title">
                   
-                  <a class="Heading-link u-clickable" href="https://ziyi-yan.github.io/index.xml" rel="bookmark">RSS</a>
+                  <a class="Heading-link u-clickable" href="https://ziyi-yan.github.io/tags/golang/index.xml" rel="bookmark">RSS</a>
                   
                 </h2>
                 
@@ -73,13 +73,13 @@
     </xsl:template>
   </xsl:stylesheet>
   <channel>
-    <title>Ziyi Yan</title>
-    <link>https://ziyi-yan.github.io/</link>
-    <description>Recent content on Ziyi Yan</description>
+    <title>golang on Ziyi Yan</title>
+    <link>https://ziyi-yan.github.io/tags/golang/</link>
+    <description>Recent content in golang on Ziyi Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 19 Apr 2019 08:00:00 +0800</lastBuildDate>
-    <atom:link href="https://ziyi-yan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ziyi-yan.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go语言的方法Receiver使用Pointer还是Value？</title>
       <link>https://ziyi-yan.github.io/posts/pointer-receiver-or-value-receiver-in-go/</link>

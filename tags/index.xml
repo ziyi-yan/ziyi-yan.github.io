@@ -1,14 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="#stylesheet" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <xsl:stylesheet id="stylesheet" version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" exclude-result-prefixes="xsl">
+    <xsl:output method="html" doctype-system="about:legacy-compat" />
+    <xsl:template match="/rss">
+      <html lang="zh-cn">
+        <head>
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <title>RSS | Ziyi Yan</title>
+          <link rel="stylesheet" href="https://ziyi-yan.github.io/css/base.min.32ba2cd1d9ea1221a2b3ac419294a491f54500b129bf37f06a9a023a9c4ea737.css" integrity="sha256-Mros0dnqEiGis6xBkpSkkfVFALEpvzfwapoCOpxOpzc=" />
+        </head>
+        <body>
+          <nav class="u-background">
+  <div class="u-wrapper">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <a class="Banner-link u-clickable" href="https://ziyi-yan.github.io/">Ziyi Yan</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable" href="https://ziyi-yan.github.io/about/">About</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable" href="https://ziyi-yan.github.io/posts/">Posts</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable" href="https://ziyi-yan.github.io/tags/">Tags</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable" href="https://ziyi-yan.github.io/categories/">Categories</a>
+      </li>
+      
+      <li class="Banner-item">
+        <a class="Banner-link u-clickable" href="https://ziyi-yan.github.io/index.xml">RSS</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+
+          <main>
+            <div class="u-wrapper">
+              <div class="u-padding">
+                <h2 class="Heading-title">
+                  
+                  <a class="Heading-link u-clickable" href="https://ziyi-yan.github.io/tags/index.xml" rel="bookmark">RSS</a>
+                  
+                </h2>
+                
+                <p>
+                  To subscribe to this RSS feed, copy its address and paste it into your favorite feed reader.
+                </p>
+                
+              </div>
+            </div>
+          </main>
+          
+<footer class="Footer">
+  <div class="u-wrapper">
+    <div class="u-padding">
+      Except where otherwise noted, content on this site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license"> Creative Commons Attribution 4.0 International License</a>.
+    </div>
+  </div>
+</footer>
+
+
+        </body>
+      </html>
+    </xsl:template>
+  </xsl:stylesheet>
   <channel>
-    <title>Tags on Ziyi Yan | 严子怡</title>
+    <title>Tags on Ziyi Yan</title>
     <link>https://ziyi-yan.github.io/tags/</link>
-    <description>Recent content in Tags on Ziyi Yan | 严子怡</description>
+    <description>Recent content in Tags on Ziyi Yan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    
-	<atom:link href="https://ziyi-yan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 Apr 2019 08:00:00 +0800</lastBuildDate>
+    <atom:link href="https://ziyi-yan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
