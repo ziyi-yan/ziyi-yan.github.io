@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ziyi-yan.github.io/tags/golang/</loc>
+    <lastmod>2019-04-19T08:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ziyi-yan.github.io/posts/pointer-receiver-or-value-receiver-in-go/</loc>
     <lastmod>2019-04-19T08:00:00+08:00</lastmod>
   </url>
@@ -10,30 +15,20 @@
   <url>
     <loc>https://ziyi-yan.github.io/posts/</loc>
     <lastmod>2019-04-19T08:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ziyi-yan.github.io/tags/</loc>
     <lastmod>2019-04-19T08:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ziyi-yan.github.io/</loc>
     <lastmod>2019-04-19T08:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ziyi-yan.github.io/tags/golang/</loc>
-    <lastmod>2019-04-19T08:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ziyi-yan.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
