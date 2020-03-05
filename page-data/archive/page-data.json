@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-archive-tsx","path":"/archive","result":{"pageContext":{"posts":[{"frontmatter":{"date":"2019-04-19T00:00:00.000Z","tags":["golang"],"title":"Go语言的方法Receiver使用Pointer还是Value？"},"path":"/pointer-receiver-or-value-receiver-in-go"}]}}}

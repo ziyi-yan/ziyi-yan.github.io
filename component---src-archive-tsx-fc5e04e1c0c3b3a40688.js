@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"YW+E":function(e,t,n){"use strict";n.r(t);var a=n("FdF9"),c=n("8+cs");n("+EN/");t.default=({pageContext:{posts:e}})=>a.default.createElement(c.c,null,a.default.createElement(c.e,{title:"Archive",noindex:!0}),a.default.createElement(c.h,{posts:e}))}}]);
